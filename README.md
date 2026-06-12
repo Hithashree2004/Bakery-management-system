@@ -2,7 +2,7 @@
 
 Bakers Lab is a simple and responsive bakery website built using HTML, CSS, and JavaScript.
 It provides an interactive interface for users to explore bakery items, register, and contact the bakery.
-
+ 
 This project demonstrates basic frontend development concepts including layout design, navigation, forms, and interactivity.
 
 🏠 Website Sections
